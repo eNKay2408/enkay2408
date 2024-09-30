@@ -12,6 +12,7 @@
   [![LinkedIn](https://img.shields.io/badge/en--kay-white?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/en-kay)
   [![Portfolio](https://img.shields.io/badge/🌐_enkay.live-white?style=for-the-badge&logoColor=0A66C2)](https://enkay.live)
   [![Facebook](https://img.shields.io/badge/enkay.live-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/enkay.live)
+  [![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](https://bit.ly/enkaycv)
   [![Email](https://img.shields.io/badge/enkay.work@outlook.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:enkay.work@outlook.com)
 
   <img width="300px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Workspace">
