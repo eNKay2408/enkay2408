@@ -4,14 +4,14 @@
 </h1>
 
 <h3 align="center">
-  A Software Engineer passionate about seamless web solutions and DevOps practices
+  A Software Engineer passionate about seamless backend solutions and DevOps practices
 </h3>
 
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/en--kay-white?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/en-kay)
-  [![Portfolio](https://img.shields.io/badge/🌐_enkay.live-white?style=for-the-badge&logoColor=0A66C2)](https://enkay.live)
-  [![Facebook](https://img.shields.io/badge/enkay.live-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/enkay.live)
+  [![Portfolio](https://img.shields.io/badge/🌐_enkay.tech-white?style=for-the-badge&logoColor=0A66C2)](https://enkay.tech)
+  [![Facebook](https://img.shields.io/badge/enkay.2408-white?style=for-the-badge&logo=facebook&logoColor=0866FF)](https://www.facebook.com/enkay.2408)
   [![My CV](https://img.shields.io/badge/My_CV-white?style=for-the-badge&logo=readdotcv&logoColor=EC1C24)](https://drive.google.com/drive/folders/1RYk7a8GYmF5asTKa57y9XmZOAmqIY2_E?usp=sharing)
   [![Email](https://img.shields.io/badge/enkay.work@outlook.com-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:enkay.work@outlook.com)
 
