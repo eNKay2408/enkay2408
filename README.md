@@ -58,11 +58,17 @@
 
 ### 🚀 Projects
 
-[![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=e-commerce&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/E-Commerce)
 [![Microservices](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=microservices&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/Microservices)
+[![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=e-commerce&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/E-Commerce)
 
+[![Student Management](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=Student-Management&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/Student-Management)
+[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=POS-System&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/POS-System)
+
+[![freeCodeCamp Projects](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=freeCodeCamp-Projects&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/freeCodeCamp-Projects)
 [![Hotel Management](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=hotel-management&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/Hotel-Management)
-[![Property-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=property-tracker&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/Property-Tracker)
+
+[![Property Tracker](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=property-tracker&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/Property-Tracker)
+[![AI Decision Tree](https://github-readme-stats.vercel.app/api/pin/?username=enkay2408&repo=AI-Decision-Tree&theme=gotham&border_color=54a68b)](https://github.com/eNKay2408/AI-Decision-Tree)
 
 ### 📝 Lines of Code
 
